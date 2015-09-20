@@ -18,8 +18,9 @@
 
 1. [UVA連結](https://uva.onlinejudge.org/)
 2. [ZeroJudge連結](http://www.zerojudge.tw/)
-3. Item 3
-4. 
+3. [CPE官網](http://cpe.cse.nsysu.edu.tw/newest.php)
+4. [ITSA官網](http://e-tutor.itsa.org.tw/e-Tutor/)
+5. [C函式庫文件](http://www.cplusplus.com/)
 
 1. Item 1
   1. A corollary to the above item.
@@ -31,9 +32,3 @@
 3. Item 3
 4. 
 
-
-
-*
-*[CPE官網](http://cpe.cse.nsysu.edu.tw/newest.php)
-*[ITSA官網](http://e-tutor.itsa.org.tw/e-Tutor/)
-*[C函式庫文件](http://www.cplusplus.com/)
