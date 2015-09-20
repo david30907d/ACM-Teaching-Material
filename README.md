@@ -32,4 +32,8 @@
 4. 
 
 
-[Visit GitHub!](https://www.github.com)
+[UVA連結](https://uva.onlinejudge.org/)
+[ZeroJudge連結](http://www.zerojudge.tw/)
+[CPE官網](http://cpe.cse.nsysu.edu.tw/newest.php)
+[ITSA官網](http://e-tutor.itsa.org.tw/e-Tutor/)
+[C函式庫文件](http://www.cplusplus.com/)
