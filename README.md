@@ -8,4 +8,11 @@
 5. [C函式庫文件](http://www.cplusplus.com/)
 6. [JAVA函式庫文件](http://docs.oracle.com/javase/7/docs/api/)
 
+```
+public class ACM{
+    publi static void main(String[] args){
+        System.out.println("我好喜歡ACM");
+    }
+}
+```
 
