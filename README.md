@@ -8,19 +8,4 @@
 5. [C函式庫文件](http://www.cplusplus.com/)
 6. [JAVA函式庫文件](http://docs.oracle.com/javase/7/docs/api/)
 
-***4***
 
-1. Item 1
-  * A corollary to the above item.
-  * Yet another point to consider.
-
-
-Here's an idea: why don't we take `SuperiorProject` and turn it into `**Reasonable**Project`.
-
-Check out this neat program I wrote:
-
-```
-x = 0
-x = 2 + 2
-what is x
-```
