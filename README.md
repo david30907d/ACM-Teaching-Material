@@ -1,8 +1,8 @@
 # ACM
 > *教材、Eclipse安裝等等資源都在這邊*
-> 進行方式：
-　　ZeroJudge：一組4~5題
-　　UVA：一組1~2題
+> ##進行方式：
+　##ZeroJudge：一組4~5題
+　##UVA：一組1~2題
 
 1. [UVA連結](https://uva.onlinejudge.org/)
 2. [ZeroJudge連結](http://www.zerojudge.tw/)
