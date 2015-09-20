@@ -15,4 +15,9 @@ public class ACM{
     }
 }
 ```
-
+1. 9/22
+  * 架設環境、申請帳號
+    * Dev C++
+    * Eclipse
+    * GitHub
+    * Slack
