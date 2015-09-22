@@ -25,7 +25,10 @@ public class ACM{
     * GitHub
     * Slack
   * 程式：C語言
-    * 變數、字串、陣列、迴圈
+    * 變數、字串、陣列、迴圈、含式
+    * scanf()與printf + fflush(stdin)
+    * 費事數列
+    * 使用time delay來製造嗶嗶聲
     * 99乘法表
   * ZeroJudge解題分享：
   　* 帳號申請
