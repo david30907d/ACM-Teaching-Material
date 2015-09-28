@@ -30,7 +30,7 @@ public class ACM{
     * 費事數列
     * 使用time delay來製造嗶嗶聲
     * 99乘法表
-  * ZeroJudge解題分享：
+  * ZeroJudge解題分享
   　* 帳號申請
   　* 提交程式碼的格式
   　* 解題
