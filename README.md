@@ -39,4 +39,4 @@ public class ACM{
    * 颱風過境，放假一天
    * 希望學弟妹在宿舍能完成zerojudge:a001~a005
    * 如果已經完成的話可以試著做:zerojudge:a006,a022,a034
-   * 魔王題:zerojudge:a016
+   * 地獄題:zerojudge:a016
