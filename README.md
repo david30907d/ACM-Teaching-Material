@@ -12,13 +12,6 @@
 
 
 
-```
-public class ACM{
-    publi static void main(String[] args){
-        System.out.println("我好喜歡ACM");
-    }
-}
-```
 1. 9/22
   * 架設環境、申請帳號
     * Dev C++
