@@ -36,5 +36,5 @@
 3. 10/13
    * for迴圈複習
    * while迴圈
-   * zerojudge練習
+   * zerojudge練習(目標:5題AC)
   
