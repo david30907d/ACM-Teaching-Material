@@ -12,10 +12,10 @@ int main(){
 		printf("error");
 	}
 	else{
-		printf("Result¡G%d",result);
+		printf("Result : %d",result);
 	}
-	return 0;	
-} 
+	return 0;
+}
 int fab(int num){
 	if(num>0){
 		return fab(num-1)*num;
