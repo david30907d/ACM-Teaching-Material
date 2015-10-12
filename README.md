@@ -33,3 +33,8 @@
    * 希望學弟妹在宿舍能完成zerojudge:a001~a005
    * 如果已經完成的話可以試著做:zerojudge:a006,a022,a034
    * 地獄題:zerojudge:a016
+3. 10/13
+   * for迴圈複習
+   * while迴圈
+   * zerojudge練習
+  
