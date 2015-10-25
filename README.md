@@ -5,8 +5,9 @@
 
 1. [UVA連結](https://uva.onlinejudge.org/)
 2. [ZeroJudge連結](http://www.zerojudge.tw/)
-3. [CPE官網](http://cpe.cse.nsysu.edu.tw/newest.php)考試時程 2015/09/29 (二)
-4. [ITSA官網](http://e-tutor.itsa.org.tw/e-Tutor/)下次競賽時間：2015年10月14日(三)，報名時間：2015年10月5日(一)~2015年10月12日(一)
+3. [CPE官網](http://cpe.cse.nsysu.edu.tw/newest.php)2015/12/8 (二) 14:25 開始報名
+2015/12/18 (五) 18:00 報名截止
+4. [ITSA官網](http://e-tutor.itsa.org.tw/e-Tutor/) ※下次比賽日期：104年11月11日，報名日期：104年11月2日~104年11月9日
 5. [C函式庫文件](http://www.cplusplus.com/)
 6. [JAVA函式庫文件](http://docs.oracle.com/javase/7/docs/api/)
 
@@ -46,6 +47,8 @@
    * zerojudge練習(目標:5題AC)
 5. 10/20
    * for loop application (嗶嗶聲)
+   * 程式練功
 
 6. 10/27
    * 考前發送all pass糖 (zeroJudge比賽)
+   
