@@ -44,4 +44,8 @@
    * for迴圈複習
    * while迴圈
    * zerojudge練習(目標:5題AC)
-  
+5. 10/20
+   * for loop application (嗶嗶聲)
+
+6. 10/27
+   * 考前發送all pass糖 (zeroJudge比賽)
