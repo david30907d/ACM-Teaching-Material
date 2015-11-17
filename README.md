@@ -50,7 +50,7 @@
    * 程式練功
 
 6. 10/27
-   * 考前發送all pass糖 (zeroJudge比賽)
+   * 考前發送all pass糖 (zeroJudge比賽:a053 d984 a271)
    
 7. 11/17
    * sort exercise
