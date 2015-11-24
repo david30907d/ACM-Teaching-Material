@@ -1,0 +1,95 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main(int argc, char *argv[]) {
+	int n,m,i,sum,a,b,c,d,e,f,g;
+	while(scanf("%d %d",&n,&m)!=EOF){
+	a=0;
+	for(i=n;i<=m;i++)
+	{
+		if(i<10){
+				printf("%d ",i);
+				a=1;
+			}
+		else if(i>=10&&i<=99){
+			b=i%10;
+			c=i/10;
+				b=b*b;
+				c=c*c;
+			sum=b+c;
+			if(i==sum){
+				printf("%d ",i);
+				a=1;
+			}
+		}
+		else if(i>=100&&i<=999){
+			b=i%10;
+			c=(i%100)/10;
+			d=i/100;
+				b=b*b*b;
+				c=c*c*c;
+				d=d*d*d;
+			sum=b+c+d;
+			if(i==sum){
+				printf("%d ",i);
+				a=1;
+			}
+		}
+		else if(i>=1000&&i<=9999){
+			b=i%10;
+			c=(i%100)/10;
+			d=(i%1000)/100;
+			e=i/1000;
+				b=b*b*b*b;
+				c=c*c*c*c;
+				d=d*d*d*d;
+				e=e*e*e*e;
+			sum=b+c+d+e;
+			if(i==sum){
+				printf("%d ",i);
+				a=1;
+			}
+		}
+		else if(i>=10000&&i<=99999){
+			b=i%10;
+			c=(i%100)/10;
+			d=(i%1000)/100;
+			e=(i%10000)/1000;
+			f=i/10000;
+				b=b*b*b*b*b;
+				c=c*c*c*c*c;
+				d=d*d*d*d*d;
+				e=e*e*e*e*e;
+				f=f*f*f*f*f;
+			sum=b+c+d+e+f;
+			if(i==sum){
+				printf("%d ",i);
+				a=1;
+			}
+		}
+		else if(i>=100000&&i<=999999){
+			b=i%10;
+			c=(i%100)/10;
+			d=(i%1000)/100;
+			e=(i%10000)/1000;
+			f=(i%100000)/10000;
+			g=i/100000;
+				b=b*b*b*b*b*b;
+				c=c*c*c*c*c*c;
+				d=d*d*d*d*d*d;
+				e=e*e*e*e*e*e;
+				f=f*f*f*f*f*f;
+				g=g*g*g*g*g*g;
+			sum=b+c+d+e+f+g;
+			if(i==sum){
+				printf("%d ",i);
+				a=1;
+			}
+		}
+	}
+	if(a==0){
+	printf("none");
+}
+	printf("\n");
+}	
+	return 0;
+}
