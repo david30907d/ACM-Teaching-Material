@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+
+int main(int argc, char *argv[]) {
+	int b,c,i,j=0,k,m,l; // 
+	int a[10],s[11];
+	while(scanf("%d %d",&i,&m)!=EOF)
+	{
+		c=0;
+		for(i;i<=m;i++)
+		{ 
+			b=i;
+			s[10]=0;
+			for(j=0;j<10;j++)
+			{
+				a[j]=(b%10);
+				if(b<10)
+					break;
+				b/=10;
+			}
+			for(k=0;k<=j;k++)
+			{
+				s[k]=1; 
+				for(l=0;l<=j;l++)
+					s[k]*=a[k];
+				s[10]+=s[k];	
+			}
+			if(s[10]==i)
+			{
+				printf("%d ",s[10]);
+				c=1;
+			}
+		} 
+		if(c==0)
+			printf("none");
+		printf("\n");		
+	}
+	return 0;
+}
