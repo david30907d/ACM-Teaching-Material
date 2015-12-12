@@ -7,7 +7,7 @@
 2. [ZeroJudge連結](http://www.zerojudge.tw/)
 3. [CPE官網](http://cpe.cse.nsysu.edu.tw/newest.php)2015/12/8 (二) 14:25 開始報名
 2015/12/18 (五) 18:00 報名截止
-4. [ITSA官網](http://e-tutor.itsa.org.tw/e-Tutor/) ※下次比賽日期：104年11月11日，報名日期：104年11月2日~104年11月9日
+4. [ITSA官網](http://e-tutor.itsa.org.tw/e-Tutor/) 第二場：104年12月30日(三)，報名日期：104年12月21日~104年12月28日
 5. [C函式庫文件](http://www.cplusplus.com/)
 6. [JAVA函式庫文件](http://docs.oracle.com/javase/7/docs/api/)
 7. [分組名單的連結](https://docs.google.com/document/d/1Nf3iYKx80mGA7kGhwhZussRt9sLj8lGjDV4SLgoYh_E/edit?usp=sharing)
