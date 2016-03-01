@@ -10,6 +10,7 @@
 4. [ITSA官網](http://e-tutor.itsa.org.tw/e-Tutor/) ※下次比賽日期：105年4月13日(三)   報名日期：105年4月4日(一)~105年4月11日(一)
 5. [C函式庫文件](http://www.cplusplus.com/)
 6. [JAVA函式庫文件](http://docs.oracle.com/javase/7/docs/api/)
+7. [分組名單的連結](https://docs.google.com/document/d/1Nf3iYKx80mGA7kGhwhZussRt9sLj8lGjDV4SLgoYh_E/edit?usp=sharing)
 
 
 
@@ -57,4 +58,8 @@
 
 8. 11/24
    * 開始分享題目囉：第1組 柏瑋
-   * 題目（請在上課前填好題號)
+   * 題目（a040,a233,d219)
+   
+9. 12/1
+   *第三組分享題目：均硯 韋鈞 軒宇
+   *題目（b679,a291,d985）
