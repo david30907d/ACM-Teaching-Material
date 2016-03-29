@@ -68,4 +68,4 @@
    * 辦杭州電子科技大學的帳號: [here](http://acm.hdu.edu.cn/) 
    * 申請時要填的大陸身分證在這裡: 310222你出生的年(19xx)生日(xxxx)00xy最後兩的數字xy是隨便打一個阿拉伯數字的意思總共18碼
    
-11. [寒假培訓班教材](https://drive.google.com/open?id=0B26OcHlreOqeQ1NjRHl6SDFCV3M)
+11. [寒假培訓班教材](https://drive.google.com/folderview?id=0B26OcHlreOqeQ1NjRHl6SDFCV3M&usp=sharing)
