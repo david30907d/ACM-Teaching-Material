@@ -5,8 +5,8 @@
 
 1. [UVA連結](https://uva.onlinejudge.org/)
 2. [ZeroJudge連結](http://www.zerojudge.tw/)
-3. [CPE官網](http://cpe.cse.nsysu.edu.tw/newest.php)2016/3/8 (二) 14:25 開始報名
-2016/3/22 17:30 開始比賽
+3. [CPE官網](http://cpe.cse.nsysu.edu.tw/newest.php)2016/5/10 (二) 14:25 開始報名
+2016/5/10 (二) 14:25 開始報名
 4. [ITSA官網](http://e-tutor.itsa.org.tw/e-Tutor/) ※下次比賽日期：105年4月13日(三)   報名日期：105年4月4日(一)~105年4月11日(一)
 5. [C函式庫文件](http://www.cplusplus.com/)
 6. [JAVA函式庫文件](http://docs.oracle.com/javase/7/docs/api/)
